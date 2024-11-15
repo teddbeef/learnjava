@@ -11,5 +11,7 @@ public class Bai1 {
         System.out.println("Max of Double " + Double.MAX_VALUE);
         System.out.println("Min of Double " + Double.MIN_VALUE);
 
+        //I just check some thing to use git pull command
+
     }
 }
