@@ -15,5 +15,7 @@ public class Bai1 {
         //I just check some thing to use git pull command
         //I just check some thing to use git pull command
 
+
+        //local changed to make conflict
     }
 }
