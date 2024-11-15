@@ -16,6 +16,10 @@ public class Bai1 {
         //I just check some thing to use git pull command
 
 
+<<<<<<< HEAD
         //local changed to make conflict
+=======
+        //try to make conflict
+>>>>>>> 7c7e1da9150621122045156aeaf86711e323664c
     }
 }
