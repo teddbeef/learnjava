@@ -13,6 +13,7 @@ public class Bai1 {
 
 
         //Other Tedd
-
+        System.out.println("Max of Float " + Float.MAX_VALUE);
+        System.out.println("Min of Float " + Float.MIN_VALUE);
     }
 }
