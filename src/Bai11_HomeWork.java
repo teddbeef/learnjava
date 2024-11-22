@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai11a_HomeWork {
+public class Bai11_HomeWork {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter your year wanna check: ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai11a_IfElse {
+public class Bai11_IfElse {
     public static void main(String[] args) {
         double dtb;
         Scanner sc = new Scanner(System.in);
